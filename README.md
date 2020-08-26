@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**jgadelugo/jgadelugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jose Alvarez de Lugo. I'm a Software Engineer with a focus in Data and Machine Learning. I have always been curious and seen myself as a problem solver, which is what attracted me to programming.
 
-Here are some ideas to get you started:
+### What I'm Currently Working On... 🔭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working part time in Data Science and Data Engineering for East Rock Software. I help clients with collecting and creating data pipelines for their business needs, as well as, creating visuals to better represent their data.
+- I also build websites for local companies in my sparetime.
+
+### What I'm currently learning... 🌱
+
+- I'm studying Machine Learning at Holberton School. [Machine Learning Repository](https://github.com/jgadelugo/holbertonschool-machine_learning)
+
+### Other interests... ⚡
+
+- I enjoy soccer, reading, hicking and hanging out on the beach.
+
+### My Goals... 🚀
+
+- To become an expert in Machine Learning and Data Engineering.
+- To make a positive impact in my field and community.
+
+### My Languages... 📊
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jgadelugo)
+
+### How To Reach Me... 📫
+[linkedin.com/in/josealvarezdelugo](https://www.linkedin.com/in/josealvarezdelugo/)
+or email me at alvarezdelugo.jose@gmail.com
