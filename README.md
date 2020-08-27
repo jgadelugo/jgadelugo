@@ -24,5 +24,5 @@ My name is Jose Alvarez de Lugo. I'm a Software Engineer with a focus in Data an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jgadelugo)
 
 ### How To Reach Me... 📫
-[linkedin.com/in/josealvarezdelugo](https://www.linkedin.com/in/josealvarezdelugo/)
-or email me at alvarezdelugo.jose@gmail.com
+- [linkedin.com/in/josealvarezdelugo](https://www.linkedin.com/in/josealvarezdelugo/)
+- alvarezdelugo.jose@gmail.com
