@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jose Alvarez de Lugo. I'm a Software Engineer with a focus in Data and Machine Learning. I have always been curious and seen myself as a problem solver, which is what attracted me to programming.
+My name is Jose Alvarez de Lugo. I'm a Software Engineer with a focus in Data and Machine Learning.
 
 ### What I'm Currently Working On... 🔭
 
@@ -13,11 +13,11 @@ My name is Jose Alvarez de Lugo. I'm a Software Engineer with a focus in Data an
 
 ### Other interests... ⚡
 
-- I enjoy soccer, reading, hicking and hanging out on the beach.
+- I enjoy reading, soccer, tennis, golfing, hicking and hanging out on the beach.
 
 ### My Goals... 🚀
 
-- To become an expert in Machine Learning and Data Engineering.
+- To continue working in and studying Machine Learning and Data Engineering.
 - To make a positive impact in my field and community.
 
 ### My Languages... 📊
