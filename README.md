@@ -5,7 +5,7 @@ My name is Jose Alvarez de Lugo. I'm a Self managed and motivated software engin
 ### What I'm Currently Working On... 🔭
 
 - I’m currently working in Data Engineering for Breezeline
-    - Create and manage ETL pipelines using airflow, cloud functions, pub/sub and other GCP products
+    - Create and manage ETL pipelines using airflow, cloud functions, pub/sub, cloud scheduler and other GCP products
     - Manage data warehouse and data marts using BigQuery for business needs
     - Consult with business owners to automate manual processes, allowing them to save time and focus on what matters most
     - Create visuals using Tableau and Data Studio
@@ -16,7 +16,7 @@ My name is Jose Alvarez de Lugo. I'm a Self managed and motivated software engin
 
 ### Other interests... ⚡
 
-- I enjoy reading, chess, soccer, tennis, golfing, hicking and hanging out on the beach.
+- I enjoy photography, reading, chess, soccer, skiing, golfing, hicking and hanging out on the beach.
 
 ### My Languages... 📊
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jgadelugo)
