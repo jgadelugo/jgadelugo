@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jose Alvarez de Lugo. I'm a Self managed and motivated software engineer, with a passion towards data and Machine Learning. With over 6 years of experience in data and analytics, I am a results-driven professional with repeated success in managing clients, data modeling, data warehousing, data/ETL pipelines and introducing new technologies to promote operational efficiency. Strong attention to detail with considerable abilities in learning new technologies and working in group settings or on their own.
+My name is Jose Alvarez de Lugo. I'm a Self managed and motivated software engineer, with a passion towards data and Machine Learning. With over 8 years of experience in data and analytics, and 5 in Data Engineering/Architecture, I am a results-driven professional with repeated success in managing clients, data modeling, data warehousing, data/ETL pipelines and introducing new technologies to promote operational efficiency. Strong attention to detail with considerable abilities in learning new technologies and working in group settings or on their own.
 
 ### What I'm Currently Working On... 🔭
 
