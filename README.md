@@ -1,26 +1,61 @@
 ### Hi there 👋
 
-My name is Jose Alvarez de Lugo. I'm a Self managed and motivated software engineer, with a passion towards data and Machine Learning. With over 8 years of experience in data and analytics, and 5 in Data Engineering/Architecture, I am a results-driven professional with repeated success in managing clients, data modeling, data warehousing, data/ETL pipelines and introducing new technologies to promote operational efficiency. Strong attention to detail with considerable abilities in learning new technologies and working in group settings or on their own.
+I'm **Jose Alvarez de Lugo** — a Data Engineer at **Moët Hennessy** with a passion for building **cloud, resilient data systems** that scale. With over 6 years of experience and a strong foundation in cloud infrastructure, I specialize in transforming fragmented data ecosystems into reliable, automated platforms that drive real business impact.
 
-### What I'm Currently Working On... 🔭
+I bring a unique blend of **technical expertise and operational leadership** — from orchestrating resilient data pipelines to managing cross-functional engineering workflows that keep teams aligned, unblocked, and on schedule.
 
-- I’m currently working in Data Engineering for Breezeline
-    - Create and manage ETL pipelines using airflow, cloud functions, pub/sub, cloud scheduler and other GCP products
-    - Manage data warehouse and data marts using BigQuery for business needs
-    - Consult with business owners to automate manual processes, allowing them to save time and focus on what matters most
-    - Create visuals using Tableau and Data Studio
+---
 
-### What I'm currently learning... 🌱
 
-- Currently studying for the Professional Data Engineering certificate with Google Cloud
+Currently, I lead both technical execution and operational management:
 
-### Other interests... ⚡
+### 🔭 What I’m Working On
 
-- I enjoy photography, reading, chess, soccer, skiing, golfing, hicking and hanging out on the beach.
+At **Moët Hennessy**, I focus on data solutions that enable real-time insights and unlock operational efficiency:
 
-### My Languages... 📊
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jgadelugo)
+- Architecting and maintaining **ETL pipelines** using GCP tools: Cloud Functions, Pub/Sub, Airflow, Scheduler
+- Building a **centralized data warehouse** with BigQuery, dbt, and Terraform for Finance, Marketing, and Operations
+- Managing **team-wide ticketing operations**: JIRA assignment, delivery tracking, and resolution support
+- Implementing **automated validation frameworks** to improve data quality and reduce manual review
 
-### How To Reach Me... 📫
-- [linkedin.com/in/josealvarezdelugo](https://www.linkedin.com/in/josealvarezdelugo/)
-- alvarezdelugo.jose@gmail.com
+On the side, I enjoy building AI-powered tools like:
+- 🤖 **“Alfred”** – a GPT-powered SMS assistant (Terraform + OpenAI + Twilio) - AI Agent
+- 📈 A stock analysis bot using Python, Streamlit, and value-investing principles
+- 💸 Personal finance ETL system (GCP + Data Studio) for spend tracking and budgeting
+
+---
+
+### 🌱 Currently Learning
+
+- Preparing for the **Google Cloud Professional Data Engineer** certification
+- Applying **LangChain, prompt engineering**, and **LLM design patterns** to automate workflows
+- Experimenting with real-time analytics using **Streamlit, Pandas, and financial APIs**
+
+---
+
+### ⚡ Outside of Work
+
+I’m energized by solving problems — whether it’s through code, design, or a long photography session. My interests include:
+
+- 📸 Photography (digital + film)
+- ⚽ Soccer, ♟️ Chess, ⛷️ Skiing, 🏌️ Golf, and 📚 Reading
+
+---
+
+### 📊 Tools & Technologies
+
+- **Main Languages**: Python, SQL, C  
+- **Cloud**: GCP (BigQuery, Cloud Run, Pub/Sub, Airflow, Storage), AWS (S3, EC2, Lambda)  
+- **Infra & Pipelines**: Terraform, dbt, Airflow, Cloud Scheduler  
+- **Data Visualization**: Looker Studio, Tableau, Power BI  
+- **Extras**: Shell scripting, Selenium, BeautifulSoup, Prompt Engineering, LLMs
+
+---
+
+### 📫 Let’s Connect
+
+- [LinkedIn – josealvarezdelugo](https://www.linkedin.com/in/josealvarezdelugo/)
+- 📧 alvarezdelugo.jose@gmail.com
+- [GitHub Projects](https://github.com/jgadelugo)
+
+---
