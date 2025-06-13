@@ -19,7 +19,7 @@ At **Moët Hennessy**, I focus on data solutions that enable real-time insights 
 - Implementing **automated validation frameworks** to improve data quality and reduce manual review
 
 On the side, I enjoy building AI-powered tools like:
-- 🤖 **“Alfred”** – a GPT-powered SMS assistant (Terraform + OpenAI + Twilio) - AI Agent
+- 🤖 **“AIFRED”** – a GPT-powered SMS assistant (Terraform + OpenAI + Twilio) - AI Agent
 - 📈 A stock analysis bot using Python, Streamlit, and value-investing principles
 - 💸 Personal finance ETL system (GCP + Data Studio) for spend tracking and budgeting
 
@@ -37,8 +37,7 @@ On the side, I enjoy building AI-powered tools like:
 
 I’m energized by solving problems — whether it’s through code, design, or a long photography session. My interests include:
 
-- 📸 Photography (digital + film)
-- ⚽ Soccer, ♟️ Chess, ⛷️ Skiing, 🏌️ Golf, and 📚 Reading
+- 📚 Reading, 📸 Photography (digital + film), ⚽ Soccer, 🏌️ Golf, ⛷️ Skiing, and ♟️ Chess 
 
 ---
 
